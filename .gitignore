@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data, external resources and experiment outputs
+data/
+resources/
+outputs/
+*.npz
+*.bin
+*.safetensors
